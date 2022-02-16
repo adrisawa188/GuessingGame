@@ -15,6 +15,7 @@ namespace GuessingGame
         public Results()
         {
             InitializeComponent();
+            //guessLabel.Text = $"Guesses made: {Form1.guessCounter}";
         }
     }
 }
